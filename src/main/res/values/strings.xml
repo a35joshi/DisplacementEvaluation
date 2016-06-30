@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab3_205_02</string>
+    <string name="reset_count">RESET COUNT</string>
+    <string name="step_count">STEP COUNT</string>
+</resources>
